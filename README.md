@@ -9,10 +9,6 @@ To analyze sales data and identify key profit drivers across customers, location
 - Pivot Charts
 - KPI Cards
 
-### 📂 Files Included
-- `data/raw_sales_data.xlsx` – Original dataset used for analysis
-- `dashboard/excel_sales_analysis_dashboard.xlsx` – Final Excel dashboard with insights and KPIs
-
 ### 📈 Key KPIs
 - Total Sales
 - Total Profit
