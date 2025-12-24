@@ -27,5 +27,7 @@ To analyze sales data and identify key profit drivers across customers, location
 ### 📌 Conclusion
 This dashboard helps businesses understand sales performance and make data-driven decisions to improve profitability.
 
-### 📷 Dashboard Preview
-https://github.com/Sanchita-Gaud/excel-sales-analysis-dashboard/blob/main/Dashboard.png
+## 📊 Dashboard Preview
+
+![Excel Sales Dashboard](Dashboard.png)
+
